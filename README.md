@@ -1,4 +1,4 @@
-# seven-segment-display
+# Seven segment display
  A seven segment display for displaying numbers (and maybe some letters)
 
  As I have seen in a video, the numbers can be represented as hexadecimal values.
